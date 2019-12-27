@@ -1,3 +1,3 @@
-# automatingpywithaws
+# automatingawswithpy
 
 Automating AWS with Python
